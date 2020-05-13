@@ -1,0 +1,5 @@
+rootProject.name='Build It Bigger'
+include ':app'
+include ':backend'
+include ':jokesdisplay'
+include ':jokeprovider'

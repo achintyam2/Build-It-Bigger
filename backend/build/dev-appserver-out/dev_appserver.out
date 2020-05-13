@@ -1,0 +1,21 @@
+May 03, 2020 4:24:45 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+INFO: Overwriting system property key 'java.util.logging.config.file', value '/home/achintyam2/.cache/google-cloud-tools-java/managed-cloud-sdk/LATEST/google-cloud-sdk/platform/google_appengine/google/appengine/tools/java/config/sdk/logging.properties' with value 'WEB-INF/logging.properties' from '/home/achintyam2/Downloads/BuildItBigger/backend/build/exploded-backend/WEB-INF/appengine-web.xml'
+2020-05-03 16:24:46.319:INFO::main: Logging initialized @904ms to org.eclipse.jetty.util.log.StdErrLog
+2020-05-03 16:24:46.436:WARN:oejs.AbstractConnector:main: Ignoring deprecated socket close linger time
+2020-05-03 16:24:46.992:INFO:oejs.Server:main: jetty-9.4.27.v20200227; built: 2020-02-27T18:37:21.340Z; git: a304fd9f351f337e7c0e2a7c28878dd536149c6c; jvm 1.8.0_212-release-1586-b4-5784211
+2020-05-03 16:24:47.679:INFO:oejsh.ContextHandler:main: Started c.g.a.t.d.j.DevAppEngineWebAppContext@235ecd9f{/,file:///home/achintyam2/Downloads/BuildItBigger/backend/build/exploded-backend/,AVAILABLE}{/home/achintyam2/Downloads/BuildItBigger/backend/build/exploded-backend}
+2020-05-03 16:24:47.681:INFO:oejs.session:main: DefaultSessionIdManager workerName=node0
+2020-05-03 16:24:47.682:INFO:oejs.session:main: node0 Scavenging disabled
+2020-05-03 16:24:47.702:INFO:oejs.AbstractConnector:main: Started NetworkTrafficSelectChannelConnector@335eadca{HTTP/1.1, (http/1.1)}{localhost:8080}
+2020-05-03 16:24:47.712:INFO:oejs.Server:main: Started @2297ms
+May 03, 2020 10:54:47 AM com.google.appengine.tools.development.AbstractModule startup
+INFO: Module instance default is running at http://localhost:8080/
+May 03, 2020 10:54:47 AM com.google.appengine.tools.development.AbstractModule startup
+INFO: The admin console is running at http://localhost:8080/_ah/admin
+May 03, 2020 4:24:47 PM com.google.appengine.tools.development.DevAppServerImpl doStart
+INFO: Dev App Server is now running
+2020-05-03 16:25:05.361:INFO:oejs.AbstractConnector:pool-1-thread-1: Stopped NetworkTrafficSelectChannelConnector@335eadca{HTTP/1.1, (http/1.1)}{localhost:8080}
+2020-05-03 16:25:05.367:INFO:oejsh.ContextHandler:pool-1-thread-1: Stopped c.g.a.t.d.j.DevAppEngineWebAppContext@235ecd9f{/,file:///home/achintyam2/Downloads/BuildItBigger/backend/build/exploded-backend/,UNAVAILABLE}{/home/achintyam2/Downloads/BuildItBigger/backend/build/exploded-backend}
+May 03, 2020 4:25:05 PM com.google.appengine.tools.development.AbstractModule shutdown
+INFO: Shutting down module instance default
+Shutting down.
